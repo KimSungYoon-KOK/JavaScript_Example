@@ -93,3 +93,4 @@ console.log(!!'string');        //true
 console.log(!!'');              //false
 console.log(!!true);            //true
 console.log(!!false);           //false
+
